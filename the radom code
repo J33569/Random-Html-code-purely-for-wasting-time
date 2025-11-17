@@ -4,7 +4,7 @@
         <style type="text/css">
             h1
                 {
-                    text-align: centre;
+                    text-align: center;
                     font-size: 120px;
                     font-family: Arial
                 }
